@@ -26,7 +26,7 @@ public class Fakultas {
     public void cetakfakultas() {
         System.out.println("Nama Fakultas\t\t : " + namaFakultas);
         System.out.println("Jumlah Mahasiswa \t : " + jumlahMahasiswa);
-        System.out.println("Dekan \t\t\t : " + dekan);
+        System.out.println("Dekand \t\t\t : " + dekan);
         System.out.println("-----------------------------------------");
     }
 }
